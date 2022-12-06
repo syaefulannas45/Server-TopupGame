@@ -2,6 +2,7 @@
   "name": "storegg",
   "version": "0.0.0",
   "private": true,
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon ./bin/www",
     "start": "node index.js",
